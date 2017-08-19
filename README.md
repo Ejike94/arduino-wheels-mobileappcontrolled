@@ -12,4 +12,6 @@ NOTE:
 
 The arrows when pressed changes colour following the tap event in order to give the feeling that the arrow is being pressed.
 
+!Can't retrive the Arduino code at the moment!
+
 I hope this code will serve you well :)
