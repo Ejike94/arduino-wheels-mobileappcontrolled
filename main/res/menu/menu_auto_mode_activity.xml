@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nnodi.ejike.firstapp.auto_mode_activity">
+    
+    <item android:id="@+id/action_connect_bluetooth"
+        android:title="@string/action_connect_bluetooth"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_showDeva_found"
+        android:title="@string/action_showDeva_found"
+        app:showAsAction="never" />
+</menu>
